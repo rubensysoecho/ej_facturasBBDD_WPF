@@ -1,0 +1,17 @@
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\bin\Debug\EjRepasoWPF.exe.config
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\bin\Debug\EjRepasoWPF.exe
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\bin\Debug\EjRepasoWPF.pdb
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\EjRepasoWPF.csprojResolveAssemblyReference.cache
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\MainWindow.g.cs
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\App.g.cs
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\EjRepasoWPF_MarkupCompile.cache
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\EjRepasoWPF_MarkupCompile.lref
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\MainWindow.baml
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\EjRepasoWPF.g.resources
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\EjRepasoWPF.Properties.Resources.resources
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\EjRepasoWPF.csproj.GenerateResource.Cache
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\EjRepasoWPF.exe
+c:\users\oscar\documents\visual studio 2015\Projects\EjRepasoWPF\EjRepasoWPF\obj\Debug\EjRepasoWPF.pdb
+R:\Maletín\FP TESDAI\DAM\Desarrollo de Interfaces\2015_16\Visual Studio 2015\EjRepasoWPF\EjRepasoWPF\bin\Debug\EjRepasoWPF.exe.config
+R:\Maletín\FP TESDAI\DAM\Desarrollo de Interfaces\2015_16\Visual Studio 2015\EjRepasoWPF\EjRepasoWPF\obj\Debug\EjRepasoWPF.exe
+R:\Maletín\FP TESDAI\DAM\Desarrollo de Interfaces\2015_16\Visual Studio 2015\EjRepasoWPF\EjRepasoWPF\obj\Debug\EjRepasoWPF.pdb
